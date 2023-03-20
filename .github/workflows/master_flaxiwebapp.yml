@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'flaxiWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_950806C3C37F47369A61B9FF9E6B97EA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_004803C94203464186939389F0F680AC }}
